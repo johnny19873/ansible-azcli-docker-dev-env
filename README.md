@@ -1,7 +1,7 @@
 # ansible-azcli-docker-dev-env
 Development environment with ansible and azure cli
 
-# Developing Ansible building blocks inside a Container
+# Developing Ansible-Azure inside a Container
 
 We are going to use a Docker container as a full-featured development environment. It allows you to open any folder inside (or mounted into) a container and take advantage of Visual Studio Code's full feature set.
 

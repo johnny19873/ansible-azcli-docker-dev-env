@@ -56,6 +56,6 @@ Let's start by cloning this project to try things out.
 
     <IMG  src="https://raw.githubusercontent.com/vortegon/ansible-azcli-docker-dev-env/master/doc/assets/6.png"  alt="Container connection successfull"/>
 
-7. Now you can create an ansible playbook and test the deployment.
+7. Now you can create an ansible playbook and test an Azure deployment.
 
     <IMG  src="https://raw.githubusercontent.com/vortegon/ansible-azcli-docker-dev-env/master/doc/assets/7.png"  alt="Container connection successfull"/>

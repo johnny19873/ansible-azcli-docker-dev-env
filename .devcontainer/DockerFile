@@ -1,0 +1,4 @@
+FROM vortegon/ansible:latest
+
+COPY all /etc/ansible/group_vars/
+COPY ansible.cfg /etc/ansible/

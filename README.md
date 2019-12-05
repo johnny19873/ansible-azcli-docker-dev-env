@@ -59,3 +59,10 @@ Let's start by cloning this project to try things out.
 7. Now you can create an ansible playbook and test an Azure deployment.
 
     <IMG  src="https://raw.githubusercontent.com/vortegon/ansible-azcli-docker-dev-env/master/doc/assets/7.png"  alt="Container connection successfull"/>
+
+8. Star this github repo :smile:
+
+-------------
+
+Enjoy!
+I'm always happy to hear your feedback.

@@ -1,5 +1,5 @@
 # ansible-azcli-docker-dev-env
-Development environment with ansible and azure cli
+Development environment with Ansible and Azure CLI
 
 # Developing Ansible-Azure inside a Container
 

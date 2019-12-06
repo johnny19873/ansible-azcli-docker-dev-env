@@ -52,7 +52,7 @@ Let's start by cloning this project to try things out.
 
 5. After the container is built, VS Code automatically connects to it and maps the project folder from your local file system into the container.
 
-6. Open the terminal in vscode and you can notice that now you are working directly inside the container and you have available **Ansible** and the **Azure CLI**.
+6. Open the terminal in vscode, you can notice now that you are working directly inside the container and you have available **Ansible** and the **Azure CLI**.
 
     <IMG  src="https://raw.githubusercontent.com/vortegon/ansible-azcli-docker-dev-env/master/doc/assets/6.png"  alt="Container connection successfull"/>
 

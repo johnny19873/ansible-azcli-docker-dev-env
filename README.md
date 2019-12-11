@@ -40,6 +40,8 @@ Let's start by cloning this project to try things out.
 
     `git clone https://github.com/vortegon/ansible-azcli-docker-dev-env.git`
 
+2. On the file `.devcontainer/all`, you can set the ansible env variables as needed.
+
 2. Start VS Code and click on the quick actions Status Bar item in the lower left corner of the window.
 
     <IMG  src="https://code.visualstudio.com/assets/docs/remote/common/remote-dev-status-bar.png"  alt="Quick actions Status bar item"/>
